@@ -8,6 +8,7 @@ public class Program {
 		
 		
 		Board board = new Board(8, 8);
+		
 	}
 
 }
